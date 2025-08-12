@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hotels-Website\\Source\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\services\\interfaces\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:services\\interfaces\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\data\\configurations\\hotelservicemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:data\\configurations\\hotelservicemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\data\\configurations\\paymentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:data\\configurations\\paymentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\data\\configurations\\employeemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:data\\configurations\\employeemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\data\\configurations\\reviewmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:data\\configurations\\reviewmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\data\\configurations\\bookingmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:data\\configurations\\bookingmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\data\\configurations\\roommap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:data\\configurations\\roommap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\data\\configurations\\hotelmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:data\\configurations\\hotelmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|e:\\hotels-website\\source\\hotelmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A39450-B5D2-4F6F-9CB6-E3413D6433F0}|HotelManagement.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IRoomService.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IRoomService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:30:45.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:30:40.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:30:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IServiceService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IServiceService.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IServiceService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:30:51.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:30:36.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T10:28:37.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:27:49.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelServiceMap.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\HotelServiceMap.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\HotelServiceMap.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\HotelServiceMap.cs",
+              "RelativeToolTip": "Data\\Configurations\\HotelServiceMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:22:25.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentMap.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\PaymentMap.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\PaymentMap.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\PaymentMap.cs",
+              "RelativeToolTip": "Data\\Configurations\\PaymentMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:22:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeMap.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\EmployeeMap.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\EmployeeMap.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\EmployeeMap.cs",
+              "RelativeToolTip": "Data\\Configurations\\EmployeeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:21:44.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingMap.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\BookingMap.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\BookingMap.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\BookingMap.cs",
+              "RelativeToolTip": "Data\\Configurations\\BookingMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:20:33.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomMap.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\RoomMap.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\RoomMap.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\RoomMap.cs",
+              "RelativeToolTip": "Data\\Configurations\\RoomMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:19:52.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HotelMap.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\HotelMap.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\HotelMap.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\HotelMap.cs",
+              "RelativeToolTip": "Data\\Configurations\\HotelMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:18:17.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewMap.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\ReviewMap.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\ReviewMap.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Data\\Configurations\\ReviewMap.cs",
+              "RelativeToolTip": "Data\\Configurations\\ReviewMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:15:07.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:10:52.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:10:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:09:57.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:09:26.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelController.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "Controllers\\HotelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:08:09.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Hotels-Website\\Source\\HotelManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:54:43.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

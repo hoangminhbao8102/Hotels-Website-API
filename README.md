@@ -247,6 +247,8 @@ Review( Id, HotelId, UserId, Rating, Comment, CreatedAt )
 ## Giấy phép
 Dự án cấp phép theo **MIT License**. Xem tệp [LICENSE](LICENSE) trong repo.
 
+---
+
 ## Tác giả
 - [@hoangminhbao8102](https://github.com/hoangminhbao8102/Hotels-Website-API) – Hotels-Website-API (C# / ASP.NET Core). Repo công khai với thư mục chính `HotelManagement`
 

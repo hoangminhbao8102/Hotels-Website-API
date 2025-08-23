@@ -30,12 +30,13 @@ var app = builder.Build();
 
 // ===== 5. Middleware Pipeline =====
 
-// Luôn bật Swagger (kể cả Production)
+// Bật Swagger ở mọi môi trường và đặt UI tại /swagger
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Hotel Management API v1");
-    c.RoutePrefix = string.Empty; // Truy cập trực tiếp tại http://localhost:7039
+    // KHÔNG đặt RoutePrefix = string.Empty để giữ đường dẫn /swagger
+    // (mặc định RoutePrefix = "swagger")
 });
 
 if (app.Environment.IsDevelopment())
@@ -45,6 +46,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
+
 app.MapControllers();
 
 // ===== 6. Seed Data =====
